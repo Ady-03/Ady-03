@@ -5,8 +5,8 @@ Full-Stack Developer · ECE undergrad at NIT Hamirpur (Class of 2027) · Buildin
 - 🔭 Currently building full-stack and AI-integrated projects (RAG pipelines, real-time systems)
 - 🌱 Sharpening DSA and system design fundamentals for SDE roles
 - 💼 Open to Software Engineering / Full-Stack internships and placements
-- ⚡ 300+ problems solved on LeetCode
-- 📫 Reach me at **[your-email@example.com]** · [LinkedIn](https://linkedin.com/in/your-handle)
+- ⚡ 200+ problems solved on LeetCode
+- 📫 Reach me at **[kain.adi0304@gmail.com]** · [LinkedIn](https://linkedin.com/in/adityakain)
 
 ---
 
