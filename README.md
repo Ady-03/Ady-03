@@ -6,7 +6,7 @@ Full-Stack Developer · ECE undergrad at NIT Hamirpur (Class of 2027) · Buildin
 - 🌱 Sharpening DSA and system design fundamentals for SDE roles
 - 💼 Open to Software Engineering / Full-Stack internships and placements
 - ⚡ 200+ problems solved on LeetCode
-- 📫 Reach me at **[kain.adi0304@gmail.com]** · [LinkedIn](https://linkedin.com/in/adityakain)
+- 📫 Reach me at **kain.adi0304@gmail.com** · [LinkedIn](https://linkedin.com/in/adityakain)
 
 ---
 
@@ -50,9 +50,7 @@ Real-time network monitoring and intrusion detection dashboard with live visuali
 
 ### 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ady-03?theme=light&font=baloo2&ext=heatmap)
-
-> Replace `Ady-03` in the LeetCode card URL above with your actual LeetCode username if it differs from your GitHub handle.
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ady0304?theme=light&font=baloo2&ext=heatmap)
 
 ---
 
