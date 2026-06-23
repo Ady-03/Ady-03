@@ -3,14 +3,14 @@ Full-Stack Developer · Final Year ECE @ NIT Hamirpur ('27) · Building AI-power
 
 - 🚀 Shipped systems at real-world scale — a RAG pipeline answering questions in **under 2s** and an intrusion detection system processing **1,000+ packets/sec**
 - 🌱 Deepening System Design, OS & DBMS fundamentals for SDE interviews
-- 💼 Seeking SDE Internship / Full-Time roles at product-based companies — campus placements ~Aug 2026
+- 💼 Seeking SDE Internship / Full-Time roles at product-based companies
 - 📫 **kain.adi0304@gmail.com** · [LinkedIn](https://linkedin.com/in/adityakain)
 
 ---
 
 ### 🏆 Highlights
 
-- 🥇 **Hack 5.0** — National Hackathon Finalist, selected among top teams from 50+ nationwide
+- 🥇 **Hack 5.0** — National Hackathon Finalist, selected among 50+ teams from nationwide
 - 🧮 **200+ problems** solved on LeetCode · Contest rating **1480** (top quartile)
 - 👨‍🏫 Mentored juniors in full-stack dev & competitive programming as Executive Member, Resurgence Club — drove a **30% rise** in club technical participation
 
